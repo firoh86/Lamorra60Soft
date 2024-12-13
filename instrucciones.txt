@@ -1,0 +1,10 @@
+Para cargar el firmware:
+Conectar el usb mientras se mantiene el botón de boot presionado, cuando aparezca el dispositivo, soltar el botón de boot, y abrir como carpeta.
+Arrastrar a ésta carpeta el archivo uf2.
+
+Una vez cargado el firmware, el dispositivo se reiniciara.
+
+El teclado en este punto es usable con la configuración base, pero para configurarlo en detalle en base al layout y por capas, ir a caniusevia.com
+allí, cargar lammorra60.json como con cualquier otro teclado.
+
+
