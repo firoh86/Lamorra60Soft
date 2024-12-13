@@ -5,6 +5,13 @@ Arrastrar a ésta carpeta el archivo uf2.
 Una vez cargado el firmware, el dispositivo se reiniciara.
 
 El teclado en este punto es usable con la configuración base, pero para configurarlo en detalle en base al layout y por capas, ir a caniusevia.com
-allí, cargar lammorra60.json como con cualquier otro teclado.
+allí, cargar via.json para tener la configuración base y soporte para via.
+
+Una vez realizado los puntos anteriores, ya se puede configurar en la pestaña layouts, para definir la configuración física del teclado que vais a montar.
+Desde este punto, podéis jugar con las keys y layers del teclado, para configurarlo a vuestro gusto, más os animo a descargar y cargar lamorra60.json, para que partáis de la configuración por capas que he desarrollado.
+Podéis configurar todo igual sin mayor problemas, pero considero un mejor punto de partida hacerlo desde esta configuración.
+
+La configuración del Backlight está basada en RGB matrix, usad sus comandos para configurar la iluminación.
+(Si hay alguna configuración del rgb matrix que haga uso de teclas reactivas, hacedmelo saber por discord).
 
 
